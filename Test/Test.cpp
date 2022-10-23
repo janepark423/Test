@@ -2,5 +2,6 @@
 using namespace std;
 
 int main() {
-	cout << "Hello World!" <<2<< "and World!!";
+	cout << "Hello World!" <<3.14<< "and World!!" <<endl;
+	cout << "Hello World!" << "3.14" << "and World!!" << endl;
 }
